@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MateusAntovere
-- 👀 I’m interested in HTML, CSS, JAVA, ETC.
-- 🌱 I’m currently learning at Faculdade Impacta
-- 💞️ I’m looking to collaborate on Saurus Software
-
+- 👋 Olá, sou @MateusAntovere
+- 👀 Estou interessado em HTML, CSS, JAVA, JAVA SCRIPT, PYTHON, ETC
+- 🌱 Atualmente estou estudando na Faculdade Impacta
+- 💞️ Estou trabalhando na Software Saurus
 
 <!---
 MateusAntovere/MateusAntovere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
